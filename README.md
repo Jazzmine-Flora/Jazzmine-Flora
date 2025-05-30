@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jazzmine-flora" alt="jazzmine-flora" /></a> </p>
 
-- 🔭 I’m currently working on [around the us](https://jazzmine-flora.github.io/se_project_aroundtheus)
+- 🔭 I’m currently working on [What to Wear (wtwr)](https://github.com/Jazzmine-Flora/se_project_react)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Back-End**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jazzmine-Flora](https://github.com/Jazzmine-Flora)
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/taliba sadiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taliba sadiq" height="30" width="40" /></a>
-<a href="https://instagram.com/jazzy_lil_journey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jazzy_lil_journey" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/taliba-sadiq](https://www.linkedin.com/in/taliba-sadiq/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taliba sadiq" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
