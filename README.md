@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [What to Wear (wtwr)](https://github.com/Jazzmine-Flora/se_project_react)
 
+- My Mini Project - The Expense Tracker - https://jazzmine-flora.github.io/expense-tracker/
+
 - 🌱 I’m currently learning **Back-End**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jazzmine-Flora](https://github.com/Jazzmine-Flora)
