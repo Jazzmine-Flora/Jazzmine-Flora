@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jazzmine-flora" alt="jazzmine-flora" /></a> </p>
 
-- 🔭 I’m currently working on [What to Wear (wtwr)](https://github.com/Jazzmine-Flora/se_project_react)
+- 🌱 My PORTFOLIO https://jazzmine-flora.github.io/my-portfolio/#/
 
-- My Mini Project - The Expense Tracker - https://jazzmine-flora.github.io/expense-tracker/
+- 🔭 i have worked on  [What to Wear (wtwr)](https://github.com/Jazzmine-Flora/se_project_react)
 
-- 🌱 I’m currently learning **Back-End**
+- ⚡ My Mini Project - The Expense Tracker - https://jazzmine-flora.github.io/expense-tracker/
+
+- 🌱 I am a Full-Stack Engineer
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jazzmine-Flora](https://github.com/Jazzmine-Flora)
 
