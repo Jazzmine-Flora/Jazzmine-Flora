@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jazzmine-Flora](https://github.com/Jazzmine-Flora)
 
-- 📫 How to reach me **taliba.latif@gmail.com**
-
 - ⚡ Fun fact **I am funny and love fantasy and fiction.**
 
 <h3 align="left">Connect with me:</h3>
