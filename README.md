@@ -9,9 +9,11 @@
 
 ### About me
 
-- **Portfolio**: `https://jazzmine-flora.github.io/my-portfolio/#/`
-- **Featured project**: [What to Wear (WTWR)](https://github.com/Jazzmine-Flora/se_project_react)
-- **Mini project**: [Expense Tracker](https://jazzmine-flora.github.io/expense-tracker/)
+- **Portfolio**: [https://jazzmine-flora.github.io](https://jazzmine-flora.github.io)
+- **Featured project**:
+- [Zenius](https://zenius.ia.br)
+- [What to Wear (WTWR)](https://github.com/Jazzmine-Flora/se_project_react)
+- **Mini project**: [Expense Tracker](https://jazzmine-flora.github.io/expense-tracker)
 - **Role**: Certified **Full-Stack Software Engineer**
 - **GitHub**: [github.com/Jazzmine-Flora](https://github.com/Jazzmine-Flora)
 - **Fun fact**: I am funny and love fantasy and fiction.
