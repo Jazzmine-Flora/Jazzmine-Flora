@@ -11,9 +11,9 @@
 
 I build full-stack apps and AI-powered systems that work beyond the demo.
 
-**React, Next.js, Node.js** on the stack. **GPT & automation** where it counts. I care about structure — code that scales, reads clean, and doesn't break when real users show up.
+**React, Next.js, Node.js** on the stack. **GPT & automation** where it counts. I care about structure: code that scales, reads clean, and doesn't break when real users show up.
 
-If it's outgrowing its architecture, needs AI done right, or just needs to finally work properly — that's where I come in.
+If it's outgrowing its architecture, needs AI done right, or just needs to finally work properly, that's where I come in.
 
 ### Connect with me
 
@@ -75,7 +75,7 @@ If it's outgrowing its architecture, needs AI done right, or just needs to final
   </a>
 </p>
 
----
+***
 
 ### Tech stack
 
