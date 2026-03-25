@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<h1 align="center">Hi, I'm Taliba Sadiq</h1>
 <h3 align="center">AI-Driven Full-Stack Software Engineer</h3>
 
 <p align="center">
