@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h3 align="center">AI-Driven Full-Stack Software Engineer</h3>
+<h3 align="center">Full-stack engineer · AI & systems that scale</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jazzmine-flora&label=Profile%20views&color=0e75b6&style=flat" alt="jazzmine-flora" />
