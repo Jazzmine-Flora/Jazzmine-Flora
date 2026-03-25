@@ -15,14 +15,6 @@ I build full-stack apps and AI-powered systems that work beyond the demo.
 
 If it's outgrowing its architecture, needs AI done right, or just needs to finally work properly, that's where I come in.
 
-### Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/taliba-sadiq/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Taliba Sadiq on LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
 ### Languages and tools
 
 <p align="left">
